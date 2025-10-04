@@ -11,9 +11,12 @@ Currently, I'm working on projects that combine **astronomy, data science, and d
 
 ### 🔭 Interests  
 - Astronomy & Physics Education  
+- **Protoplanetary Disks**  
+- **Epoch of Reionization**  
+- **Radiative Processes**  
 - Data Visualization and Scientific Computing  
 - Educational Technology and Open Science  
-- Curriculum Design for STEM Learning  
+- Curriculum Design for STEM Learning 
 
 ---
 
