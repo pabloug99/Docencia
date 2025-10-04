@@ -36,4 +36,4 @@ Currently, I'm working on projects that combine **astronomy, data science, and d
 ---
 
 ### 📫 Contact  
-- ✉️ [Email me](mailto:your_email@example.com)
+- ✉️ [Email me](pablo.urrego99@gmail.com)
